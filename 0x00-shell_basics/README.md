@@ -1,1 +1,0 @@
-Shell and his Basics
